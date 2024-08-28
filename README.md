@@ -22,7 +22,7 @@ This project provides comprehensive detection capabilities for various aspects o
 - **Description Detection**
 - **Original File Name Detection**
 
-![IDA Pro Detection System Screenshot](https://i.imgur.com/yourimage.png)
+![IDA Pro Detection System Screenshot](https://i.imgur.com/uNKDugF.png)
 
 ## Contact
 
