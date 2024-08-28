@@ -11,12 +11,11 @@ This project provides comprehensive detection capabilities for various aspects o
 ## Features
 
 - **Process List Scanning**
-- **Module List Scanning**
-- **Network Connection Scanning**
-- **Registry Key Scanning**
-- **File System Scanning**
+- **Network Port Scanning**
+- **Registry Keys**
+- **Scans File System**
 - **Window Title Scanning**
-- **Debugger Detection**
+- **Remote Debugger Detection**
 - **Copyright Detection**
 - **Product Name Detection**
 - **Description Detection**
