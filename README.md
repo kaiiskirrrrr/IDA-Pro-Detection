@@ -1,3 +1,7 @@
+Here's the revised README with the image embedded correctly:
+
+---
+
 # IDA Pro Detection System
 
 This project provides comprehensive detection capabilities for various aspects of the IDA Pro disassembler. It includes modules for scanning processes, modules, network connections, registry keys, and checking for signatures and old file names. I hope it helps those who are getting started with fighting against debuggers and disassemblers. :D
@@ -18,8 +22,12 @@ This project provides comprehensive detection capabilities for various aspects o
 - **Description Detection**
 - **Original File Name Detection**
 
-![show]([https://imgur.com/eHbnhrC.png](https://imgur.com/a/EbkPyfZ))
+![IDA Pro Detection System Screenshot](https://imgur.com/a/EbkPyfZ)
 
 ## Contact
 
 If you need any help or have any questions, feel free to contact me on Discord: `06fcecee1fbb942c1af6fc8e48dbfe25`
+
+---
+
+This version correctly embeds the image instead of just linking to it. Let me know if you need any further adjustments!
