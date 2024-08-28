@@ -27,7 +27,3 @@ This project provides comprehensive detection capabilities for various aspects o
 ## Contact
 
 If you need any help or have any questions, feel free to contact me on Discord: `06fcecee1fbb942c1af6fc8e48dbfe25`
-
----
-
-This version correctly embeds the image instead of just linking to it. Let me know if you need any further adjustments!
