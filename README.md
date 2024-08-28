@@ -22,7 +22,7 @@ This project provides comprehensive detection capabilities for various aspects o
 - **Description Detection**
 - **Original File Name Detection**
 
-![IDA Pro Detection System Screenshot](https://i.imgur.com/uNKDugF.png)
+![IDA Pro Detection System Screenshot](https://i.imgur.com/9bV1fwM.jpeg)
 
 # Note:
 You will still need to add obsfucation and implement this correctly or its quite easy to get past. Thus why i have provided many methods for finding IDA
