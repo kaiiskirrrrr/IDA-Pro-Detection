@@ -1,11 +1,8 @@
 # IDA Pro Detection System
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+This project provides comprehensive detection capabilities for various aspects of the IDA Pro disassembler. It includes modules for scanning processes, modules, network connections, registry keys, and checking for signatures and old file names. I hope it helps those who are getting started with fighting against debuggers and disassemblers. :D
 
-## Overview
-
-This project provides a comprehensive detection for various aspects of IDA Pro disassembler. It includes modules for scanning processes, modules, network connections, registry keys, checking signatures, old file names.
+> **Note**: This tool is extremely overkill and has not been fully tested for false positives. The window title detection may give some false positives, so be careful with that. Everything else has worked reliably in my testing. I wrote this project in a day; it's not the greatest, but it does the job. I recommend using this as inspiration to create your own implementation.
 
 ## Features
 
@@ -17,19 +14,12 @@ This project provides a comprehensive detection for various aspects of IDA Pro d
 - **Window Title Scanning**
 - **Debugger Detection**
 - **Copyright Detection**
+- **Product Name Detection**
+- **Description Detection**
+- **Original File Name Detection**
 
-## Getting Started
+![Alt text]([URL or path to your image](https://github.com/kaiiskirrrrr/anti-ida-pro/blob/main/Capture.PNG))
 
-### Recommendations
+## Contact
 
-These functions either show that IDA pro is installed on the system using many methods, and if its currently running on the system.
-
-### For running IDA: 
-
-- I recommend to wipe the users MBR, or you can blue screen their computer and warn them. Then fully blacklist their computer.
-
-### For installed IDA
-
-- I recommend to warn the user that its against the TOS, give them three warnings, if they open more then three times with IDA wipe their MBR. Then blacklist them
-
-    
+If you need any help or have any questions, feel free to contact me on Discord: `06fcecee1fbb942c1af6fc8e48dbfe25`
