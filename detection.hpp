@@ -83,16 +83,5 @@ public:
     };
     network_connections c_network;
 
-    class debugger
-    {
-    private:
-        auto is_debugger_present() const noexcept -> bool;
-        auto check_breakpoints() const noexcept -> bool;
-
-    public:
-        auto scan() const noexcept -> bool;
-    };
-    debugger c_debugger;
-
 }; inline const auto c_ida_pro = std::make_unique<ida_pro>();
 #endif
