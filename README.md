@@ -29,4 +29,4 @@ You will still need to add obsfucation and implement this correctly or its quite
 
 ## Contact
 
-If you need any help or have any questions, feel free to contact me on Discord: `06fcecee1fbb942c1af6fc8e48dbfe25`
+If you need any help, have any questions, or have another way of detecting IDA and want to share it feel free to contact me on Discord: `06fcecee1fbb942c1af6fc8e48dbfe25`
