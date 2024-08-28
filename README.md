@@ -18,7 +18,7 @@ This project provides comprehensive detection capabilities for various aspects o
 - **Description Detection**
 - **Original File Name Detection**
 
-![Alt text]([URL or path to your image](https://github.com/kaiiskirrrrr/anti-ida-pro/blob/main/Capture.PNG))
+![show]([https://imgur.com/eHbnhrC.png](https://imgur.com/a/EbkPyfZ))
 
 ## Contact
 
