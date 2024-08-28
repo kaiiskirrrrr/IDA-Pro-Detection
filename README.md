@@ -24,6 +24,9 @@ This project provides comprehensive detection capabilities for various aspects o
 
 ![IDA Pro Detection System Screenshot](https://i.imgur.com/uNKDugF.png)
 
+# Note:
+You will still need to add obsfucation and implement this correctly or its quite easy to get past. Thus why i have provided many methods for finding IDA
+
 ## Contact
 
 If you need any help or have any questions, feel free to contact me on Discord: `06fcecee1fbb942c1af6fc8e48dbfe25`
