@@ -8,6 +8,8 @@ This project provides comprehensive detection capabilities for various aspects o
 
 > **Note**: This tool is extremely overkill and has not been fully tested for false positives. The window title detection may give some false positives due to flagging anything with "IDA" in it, so be careful with that. Everything else has worked reliably in my testing. I wrote this project in a day; it's not the greatest, but it does the job. I recommend using this as inspiration to create your own implementation.
 
+You can and should adapt this for all other debuggers, i just mained ida pro for this example.
+
 ## Features
 
 - **Process List Scanning**
