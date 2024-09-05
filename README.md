@@ -2,13 +2,13 @@ Here's the revised README with the image embedded correctly:
 
 ---
 
-# IDA Pro Detection System
+# provides multiple techniques of detecting debuggers, in this example i use ida-pro
 
-This project provides comprehensive detection capabilities for various aspects of the IDA Pro disassembler. It includes modules for scanning processes, modules, network connections, registry keys, and checking for signatures and old file names. I hope it helps those who are getting started with fighting against debuggers and disassemblers. :D
+This project provides comprehensive detection capabilities for various aspects of debuggers. It includes modules for scanning processes, modules, network connections, registry keys, and checking for signatures and old file names. I hope it helps those who are getting started with fighting against debuggers. :D
 
 > **Note**: This tool is extremely overkill and has not been fully tested for false positives. The window title detection may give some false positives due to flagging anything with "IDA" in it, so be careful with that. Everything else has worked reliably in my testing. I wrote this project in a day; it's not the greatest, but it does the job. I recommend using this as inspiration to create your own implementation.
 
-You can and should adapt this for all other debuggers, i just mained ida pro for this example.
+You can and should adapt this for all other debuggers, i just used ida pro for this example.
 
 ## Features
 
