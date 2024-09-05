@@ -1,8 +1,4 @@
-Here's the revised README with the image embedded correctly:
-
----
-
-# provides multiple techniques of detecting debuggers, in this example i use ida-pro
+# detecting debuggers, in this example i use ida-pro
 
 This project provides comprehensive detection capabilities for various aspects of debuggers. It includes modules for scanning processes, modules, network connections, registry keys, and checking for signatures and old file names. I hope it helps those who are getting started with fighting against debuggers. :D
 
